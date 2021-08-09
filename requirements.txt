@@ -1,0 +1,6 @@
+dlib==19.21.1
+numpy
+opencv-python-headless==4.2.0.32
+Flask
+Pillow==8.0.1
+gunicorn
